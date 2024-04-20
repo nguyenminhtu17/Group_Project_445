@@ -8,7 +8,7 @@ function validate() {
     if (username == "admin" && password == "123456") {
         swal({
             title: "",
-            text: "Xin chào Võ Trường",
+            text: "Xin chào Minh Tú",
             icon: "success",
             close: true,
             button: false,
